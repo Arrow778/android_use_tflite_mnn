@@ -1,0 +1,14 @@
+book
+cat
+clothes
+computer
+dog
+eyeglasses
+flower
+knife
+mouse
+pen
+phone
+shoe
+tree
+water_bottle
