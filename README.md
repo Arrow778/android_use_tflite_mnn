@@ -1,0 +1,2 @@
+# android_use_tfile
+在Android上使用tflite模型进行多类别识别
