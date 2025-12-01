@@ -28,4 +28,4 @@
 
 # Android
 
-`Android`的版本需要`API > 34` ，创建新项目时，选择 `No Activity` 然后按照`MyAppliction3`补全结构。
+`Android`的版本需要`API > 34` ，创建新项目时，选择 `No Activity` 然后按照`MyApplication3`补全结构。
