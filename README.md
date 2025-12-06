@@ -1,4 +1,4 @@
-# 在 Android 上使用 TensorFlow Lite（TFLite）模型实现多类别图像识别
+# 在 Android 上使用 TensorFlow Lite（TFLite \ MNN）模型实现多类别图像识别
 
 ## 项目简介
 
